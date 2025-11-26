@@ -25,7 +25,7 @@ from telegram.ext import (
 )
 
 # === НАЛАШТУВАННЯ ===
-TOKEN = "8500138070:AAEkY3S3T9Urn1FjesqPvxoxeSUzBHrCdiU"  # сюди вставити токен від BotFather
+TOKEN = "BOT_TOKEN"  # сюди вставити токен від BotFather
 ADMIN_ID = 6958866740      # твій numeric ID
 ADMIN_USERNAME = "RiKOWENS420"  # твій username без @
 
@@ -912,4 +912,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
